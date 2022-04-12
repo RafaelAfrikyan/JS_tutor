@@ -4,7 +4,7 @@
 
 - Create an object which will have a date key,
 
-  ### 02. [sumOfArguments](sumOfArguments.js)
+### 02. [sumOfArguments](sumOfArguments.js)
 
 Return the sum of all arguments passed to function.
 
